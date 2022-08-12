@@ -1,2 +1,2 @@
 # DIO-projects
-Projects made for DIO platform.
+Projects made for linux experience bootcamp on DIO platform.
